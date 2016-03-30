@@ -1,0 +1,27 @@
+﻿#divWaitingPanel div{
+    left: 40%!important;
+}
+#finishWarning{
+    top: 35%;
+    position: absolute;
+    left: 15%;
+    text-align: center;
+}
+p.descript{
+    margin: 0;
+    font-weight: 100;
+}
+h3{
+   font-weight: 400;
+}
+p.url-desc{
+        margin-left: -150px;
+}
+#divFieldDescription{
+    display: none;
+}
+.exist-name {
+    display: block;
+    color: #ff0000;
+    margin-left: -35px;
+}
