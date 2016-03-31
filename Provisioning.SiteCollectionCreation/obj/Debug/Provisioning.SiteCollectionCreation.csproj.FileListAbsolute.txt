@@ -1,0 +1,4 @@
+D:\OneDrive\Документи\Visual Studio 2015\Projects\myform\SPOSiteCollectionCreation\Provisioning.SiteCollectionCreation\bin\Debug\Contoso.Provisioning.SiteCollectionCreation.dll.config
+D:\OneDrive\Документи\Visual Studio 2015\Projects\myform\SPOSiteCollectionCreation\Provisioning.SiteCollectionCreation\bin\Debug\Contoso.Provisioning.SiteCollectionCreation.pdb
+D:\OneDrive\Документи\Visual Studio 2015\Projects\myform\SPOSiteCollectionCreation\Provisioning.SiteCollectionCreation\obj\Debug\Contoso.Provisioning.SiteCollectionCreation.dll
+D:\OneDrive\Документи\Visual Studio 2015\Projects\myform\SPOSiteCollectionCreation\Provisioning.SiteCollectionCreation\obj\Debug\Contoso.Provisioning.SiteCollectionCreation.pdb
