@@ -19,6 +19,7 @@ function urlDisplay() {
     $("#finishWarning").css("display", "block");
 }
 function progressDisplay() {
+    console.log("start");
     setTimeout(function () {
         $("#progress").css("display", "block");
         $("#inputField").css("display", "none");
@@ -31,6 +32,7 @@ function progressDisplay() {
     setTimeout(function () {
         $("#progress").css("display", "none");
         $("#finishWarning").css("display", "block");
+        console.log("end");
     }, 480000);
 }
 //Wait for the page to load 
